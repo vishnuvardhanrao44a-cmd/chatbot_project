@@ -1,7 +1,7 @@
 import streamlit as st
 from chatbot.bot import ChatBot
 
-st.title("🤖 Vishnu's Chatbot")
+st.title(" Vishnu's Chatbot")
 st.write("A simple ML-based chatbot using scikit-learn")
 
 bot = ChatBot()
